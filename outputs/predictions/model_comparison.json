@@ -1,0 +1,6 @@
+{
+  "arima_rmse": 87.97543485631594,
+  "lstm_rmse": 43.63734188872731,
+  "best_model": "LSTM",
+  "improvement_pct": 50.4
+}
